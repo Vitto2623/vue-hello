@@ -1,0 +1,16 @@
+#root{
+    text-align: center;
+    margin-top: 50px;
+}
+
+label{
+    font-size: 1.8em;
+}
+
+input{
+    height: 36.25px;
+}
+
+h1{
+    color: red;
+}
